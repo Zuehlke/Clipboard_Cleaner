@@ -8,4 +8,6 @@ Have you ever been annoyed that when you copy text, styling information is often
 
 [![Demo ClipboardCleaner](https://thumbs.gfycat.com/FlakyGoodnaturedEnglishpointer-size_restricted.gif)](https://gfycat.com/gifs/detail/FlakyGoodnaturedEnglishpointer)
 
+## Author
 
+https://www.robinwiegand.de/
